@@ -32,6 +32,12 @@ Not trying to master everything at once, just figuring out what I enjoy and wher
 
 ### Tools & Languages
 
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+
 Comfortable with Rust and C/C++ (used mostly through problem solving and practice).  
 Also working with basic Go, Elixir (still learning), and Python (when necessary).
 
